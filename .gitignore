@@ -1,0 +1,29 @@
+# Python & Virtual Environments
+venv/
+env/
+ENV/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+backend/media/
+*.log
+
+# Node & Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+node-v20.18.0-win-x64/
+*.zip
+
+# OS & Editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# SQLite database
+*.sqlite3
